@@ -24,3 +24,5 @@ generated
 .config/htop
 .config/omf
 .gitconfig
+.nvm
+.npm
